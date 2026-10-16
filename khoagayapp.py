@@ -1,4 +1,5 @@
-Mỗi nhân vật đại diện cho một giá trị. Không được trùng nhân vật
+ 
+Mỗi nhân vật đại diện cho một con số. Không được trùng nhân vật
             trong cùng hàng, cột hoặc vùng 3×3.
         </p>
     </div>
