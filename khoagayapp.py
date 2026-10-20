@@ -1,5 +1,11 @@
  
-#Mỗi nhân vật đại diện cho một con số. Không được trùng nhân vật
+python
+    st.markdown("""
+    <div class="panel">
+        <h3 style="text-align:center">🧩 BẢNG BRAINROT 9×9</h3>
+        <p style="text-align:center;color:#b9d7ff">
+            Mỗi nhân vật đại diện cho một con số.
+            Không được trùng nhân vật trong cùng hàng, cột hoặc vùng 3×3.
         </p>
     </div>
     """, unsafe_allow_html=True)
