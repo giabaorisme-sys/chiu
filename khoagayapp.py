@@ -1,6 +1,6 @@
  
 python
-    st.markdown("""
+st.markdown("""
     <div class="panel">
         <h3 style="text-align:center">🧩 BẢNG BRAINROT 9×9</h3>
         <p style="text-align:center;color:#b9d7ff">
