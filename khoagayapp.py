@@ -1,5 +1,5 @@
  
-Mỗi nhân vật đại diện cho một con số. Không được trùng nhân vật
+#Mỗi nhân vật đại diện cho một con số. Không được trùng nhân vật
         </p>
     </div>
     """, unsafe_allow_html=True)
