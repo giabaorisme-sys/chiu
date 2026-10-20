@@ -1,6 +1,5 @@
  
 Mỗi nhân vật đại diện cho một con số. Không được trùng nhân vật
-            trong cùng hàng, cột hoặc vùng 3×3.
         </p>
     </div>
     """, unsafe_allow_html=True)
