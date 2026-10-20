@@ -10,7 +10,7 @@ st.markdown("""
     </div>
     """, unsafe_allow_html=True)
 
-    left, right = st.columns([3, 1])
+left, right = st.columns([3, 1])
 
     with left:
         # Board cells use a picture above the selectbox. Streamlit selectboxes
